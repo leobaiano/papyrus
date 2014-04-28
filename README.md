@@ -7,6 +7,15 @@ Este projeto apresenta uma lista com itens que devem ser verificados para garant
 
 ## Check List
 
+[Geral](geral.md)
+[Web Standards](web-standards.md)
+
+## Agradecimentos e referências
+
+[Agência Kaus](http://kaus.com.br/design-checklist/)
+[Mestre SEO](http://www.agenciamestre.com/)
+[Maujor](http://www.maujor.com/)
+[WikiPédia](http://pt.wikipedia.org/)
 
 
 ## Como contribuir
